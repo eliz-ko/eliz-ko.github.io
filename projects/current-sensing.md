@@ -24,6 +24,9 @@ and then output a very small voltage. Using Ohm's Law, V = IR, you can find the 
 
 However, due to the small resistance value, the outputted voltage would be too small to be properly detected by the comparators in the other sections. Thus, it needs to be amplified. We selected an amplifier which has 4 different gain options. Essentially, based on the gain option selected, the outputted voltage will be increased by some amount. We chose the 10x gain option which for every volt, it increases the outputted voltage by 10 times. So, if the inputted voltage is 0.15 volt, the outputted voltage would be 1.5 volts. This decision was based off the calculations done for each gain option, where the 10x option seemed to be the best as it would ouput voltage just high enough to be sensed and also low enough to not have any signficiant noise. 
 
+![current_sensing_image_schematic](/assets/current_sensing_image_schematic.png)
+
+
 Current Detection 
 
 **Tools:** KiCad  
