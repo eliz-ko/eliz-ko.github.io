@@ -15,7 +15,7 @@ A compact PCB for precision current sensing using shunt resistors and isolated a
 
 ---
 
-### *[Battleship Arcade Game SLDP Project](projects/sldp.md)
+### [Battleship Arcade Game SLDP Project](projects/sldp.md)
   **Date:** Fall 2024
 Semester Long Design Project from Fall 2024 for which I created the design ideas, circuit schematic, circuit in real life, CAD design, planned the entire workflow, and wrote most of the documentation.
 
