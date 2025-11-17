@@ -1,3 +1,7 @@
 theme: minima
 title: Elizaveta's Personal Website
 description: Welcome to my site!
+
+header_pages:
+  - index.md
+  - portfolio.md
