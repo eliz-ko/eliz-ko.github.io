@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Current Sensing PCB"
+nav: false
 ---
 
 # 💡 Current Sensing PCB
